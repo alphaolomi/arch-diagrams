@@ -58,6 +58,15 @@ This will generate an image file of the diagram in the same directory.
 
 ### Diagram Templates
 
+#### Templates Explanation
+
+1. **Monolith**: A single-tiered software application in which different components are combined into a single program.
+2. **Microservices**: An architectural style that structures an application as a collection of loosely coupled services.
+3. **Load Balancing**: Distributing network or application traffic across multiple servers.
+4. **IoT**: Internet of Things architecture typically includes IoT devices, data processing, and storage.
+5. **Multi Client-Server**: Architecture that includes multiple client types interacting with a central server and database.
+
+
 #### Monolith
 
 ![Monolith Example](examples/monolith_example.png)
