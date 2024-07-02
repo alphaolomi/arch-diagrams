@@ -69,7 +69,7 @@ This will generate an image file of the diagram in the same directory.
 
 #### Monolith
 
-![Monolith Example](examples/monolith_example.png)
+![Monolith Example](monolith_architecture.png)
 
 ```python
 # diagrams/monolith.py
@@ -85,7 +85,7 @@ with Diagram("Monolith Architecture", show=False):
 
 #### Microservices
 
-![Microservices Example](examples/microservices_example.png)
+![Microservices Example](microservices_architecture.png)
 
 ```python
 # diagrams/microservices.py
@@ -105,7 +105,7 @@ with Diagram("Microservices Architecture", show=False):
 
 #### Load Balancing
 
-![Load Balancing Example](examples/load_balancing_example.png)
+![Load Balancing Example](load_balancing_architecture.png)
 
 ```python
 # diagrams/load_balancing.py
@@ -120,7 +120,7 @@ with Diagram("Load Balancing Architecture", show=False):
 
 #### IoT
 
-![IoT Example](examples/iot_example.png)
+![IoT Example](iot_architecture.png)
 
 ```python
 # diagrams/iot.py
@@ -136,7 +136,7 @@ with Diagram("IoT Architecture", show=False):
 
 #### Multi Client-Server
 
-![Multi Client-Server Example](examples/multi_client_server_example.png)
+![Multi Client-Server Example](load_balancing_architecture.png)
 
 ```python
 # diagrams/multi_client_server.py
